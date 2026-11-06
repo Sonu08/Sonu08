@@ -4,7 +4,9 @@
 
 I build practical **AI, data science, and automation solutions**, with a particular focus on finance and business planning.
 
-My work combines business and finance knowledge with hands-on development using **Python, AI agents, Microsoft Copilot, Power Platform, Model Context Protocol, analytics, and intelligent automation**.
+My work combines finance and business knowledge with hands-on development using **Python, AI agents, Microsoft Copilot, Power Platform, Model Context Protocol, analytics, and intelligent automation**.
+
+I also own and create content for **Let’s Talk About Data**, a YouTube channel focused on data, AI, analytics, automation, and practical technology.
 
 ## 🚀 What I'm Working On
 
@@ -14,6 +16,7 @@ My work combines business and finance knowledge with hands-on development using 
 - Model Context Protocol servers and AI tool integrations
 - Forecasting, predictive analytics, and machine learning
 - Power BI, Power Automate, SharePoint, and Microsoft 365 solutions
+- Practical educational content for the **Let’s Talk About Data** YouTube channel
 
 ## 🛠️ Technical Toolkit
 
@@ -62,13 +65,24 @@ I am particularly interested in applying AI to:
 
 - Finance controls and financial close management
 - Business planning, forecasting, and management reporting
-- Intelligent document and presentation generation
-- Workflow orchestration and process automation
-- Human-in-the-loop review and validation
-- Secure enterpriseol integrations
+- IntelligentAbout Data
+
+I own and create content for **Let’s Talk About Data**, where I share my continuing interest in data, AI, analytics, automation, and practical technology.
+
+The channel explores how data and intelligent tools can be used to solve real problems and make complex concepts easier to understand.
+
+https://img.shields.io/badge/YouTube-Let's_Talk_About_Data-FF0000?style=for-the-badge&logo=youtube&logoColor=white](YOUR_YOUTUBE_CHANNEL_URL)
+
+## 📌 Featured Work
+
+I am currently organizing and documenting selected projects covering:
+
+1. Finance AI agents and workflow automation
+2. MCP servers and agent-tool integrations
 3. Forecasting and financial analytics
 4. Microsoft Copilot and Power Platform solutions
 5. Practical machine-learning applications
+6. Educational content for Let’s Talk About Data
 
 ## 📊 GitHub Statistics
 
@@ -79,7 +93,10 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Sonu08&layout=com
 ## 🤝 Connect With Me
 
 https://img.shields.io/badge/LinkedIn-Sonu_Singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white](https://www.linkedin.com/in/sonutheanalyst)
+
 https://img.shields.io/badge/GitHub-Sonu08-181717?style=flat-square&logo=github&logoColor=white](https://github.com/Sonu08)
+
+https://img.shields.io/badge/YouTube-Let's_Talk_About_Data-FF0000?style=flat-square&logo=youtube&logoColor=white](https://www.youtube.com/@LetsTalkAboutData-LTAD)
 
 ---
 
